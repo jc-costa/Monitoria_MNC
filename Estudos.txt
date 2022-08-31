@@ -1,0 +1,3 @@
+Sua tarefa é explicar e prever a progressão da epidemia da doença coronavírus (Covid-19) no estado de Pernambuco. O sistema de equações diferenciais empregado deve ser baseado em uma variante apropriada do modelo SIR para modelar o surto de Covid-19. Uma coleção de estudos semelhantes pode ser encontrado seguindo o link abaixo.
+
+https://drive.google.com/drive/folders/1CxWRlle_-P54qDOL8nPuzdMWtWuKmWM5?usp=sharing
